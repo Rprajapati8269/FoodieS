@@ -6,7 +6,7 @@ app = FastAPI()
 
 # Llama API Config
 LLAMA_API_URL = "https://api.together.xyz/v1/chat/completions"
-LLAMA_API_KEY = "1bc02c0ec24b4b824bbb3fd674e5135a81eaf47a9d03ac222362524e76aa4d89"
+LLAMA_API_KEY = "tgp_v1_y2xLigdLAWjJkXBI0Z_KZH0LqSFxrzqwlXzRzX5Y90o"
 
 headers = {
     "Authorization": f"Bearer {LLAMA_API_KEY}",
